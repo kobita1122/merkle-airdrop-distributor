@@ -1,0 +1,5 @@
+[
+  "function claim(uint256 amount, bytes32[] calldata merkleProof) external",
+  "function hasClaimed(address) view returns (bool)",
+  "function merkleRoot() view returns (bytes32)"
+]
